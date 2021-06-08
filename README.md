@@ -1,7 +1,6 @@
 ArrayBal
 ================
 
-![R](https://github.com/omorante/shinyepico/workflows/R/badge.svg)
 ![Lines of code](https://img.shields.io/tokei/lines/github/cdelacalle/ArrayBal)
 
 MicroArray Experimental Design Balancer
